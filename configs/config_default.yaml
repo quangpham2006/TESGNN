@@ -155,8 +155,8 @@ logging:
  log_graph: True
 wandb:
  dry_run: false
- entity: 'quangpham200602'
- project: "Thank Allah" #"I160"
+ entity: 'username'
+ project: "TESGNN" #"I160"
 #  id: "SEGNN"
  id: "001" # id will be set to name
  tags: ["ssg", "3dssg"]
